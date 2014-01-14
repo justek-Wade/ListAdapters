@@ -4,7 +4,7 @@
     style="@android:style/TextAppearance.Small"
     android:layout_width="fill_parent"
     android:layout_height="wrap_content" 
-    android:background="#0000ff"
+    android:background="#eeeeee"
     
 
 />
